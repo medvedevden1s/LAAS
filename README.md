@@ -18,7 +18,7 @@ It demonstrates how to configure multiple Lambda functions for different HTTP me
 
     ```bash
     git clone https://github.com/medvedevden1s/LAAS
-    cd lambda-as-a-server
+    cd LAAS
     ```
 
 2. Install dependencies:
